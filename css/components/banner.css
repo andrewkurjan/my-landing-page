@@ -1,0 +1,18 @@
+.banner {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8)),url('../../images/hero-image.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 250px 0;
+  margin: 0;
+  color: #FEFAE0;
+  text-shadow: 0px 2px 3px #000000;
+}
+
+.banner h1 {
+  margin: 0;
+  line-height: 1.3em;
+}
+
+.banner p {
+  opacity: 0.5;
+}
