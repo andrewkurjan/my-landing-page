@@ -10,6 +10,10 @@
   font-size: .5em;
 }
 
+.footer a {
+  color: #FEFAE0;
+}
+
 .footer a:visited {
   color: #FEFAE0;
 }
